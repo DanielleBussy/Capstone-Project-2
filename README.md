@@ -17,7 +17,12 @@ If they are able to avoid the enemies and collide with the 'prize' object on the
 When the game ends, the appropriate 'You win!' or 'You lose' message is displayed. 
 
 ### How can I use it?
-* In order to run this game program, you will need to install the Python interpreter program, and Pygame onto your computer's operating system (OS). Please use the website addesses below for assistance:
+* Firstly, you need to clone this repository with the Task Manager program and related text files to a local repository on your computer, so that you can access and run the program.
+If you need help, follow the instructions as set out github help webpage: 
+
+  * https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+* In order to run this game program, you will then need to install the Python interpreter program, and Pygame onto your computer's operating system (OS). Please use the website addesses below for assistance:
   * https://www.python.org/downloads/   - Use this link to download the appropriate Python version for your OS (e.g. Windows, Mac, Linux etc.).
   * https://www.pygame.org/wiki/GettingStarted   - Use this link as a guide to using Python's Installer Program (PIP) to install Pygame.
   
